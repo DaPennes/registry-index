@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "id": "near_future_tech",
+  "display_name": "Near Future Tech",
+  "short_description": "A content mod adding mostly hard-sci-fi equipment, inspired by the likes of The Expanse, Menace and Brigador.",
+  "description": "A content mod adding mostly hard-sci-fi equipment, inspired by the likes of The Expanse, Menace and Brigador.",
+  "author": [
+    "ArkantosAoM"
+  ],
+  "license": "CC-BY-SA-4.0",
+  "homepage": "https://github.com/Agoelia/Near-Future-Tech",
+  "version": "0.0.0",
+  "dependencies": {
+    "bn": ">=0.9.1"
+  },
+  "source": {
+    "type": "github_archive",
+    "url": "https://github.com/Agoelia/Near-Future-Tech/archive/refs/heads/main.zip",
+    "commit_sha": "b72973019d1e677fec31910985cecb4beedf0e78"
+  },
+  "categories": [
+    "content",
+    "items"
+  ],
+  "tags": [
+    "guns",
+    "realistic",
+    "ammo",
+    "sci-fi"
+  ],
+  "last_updated": "2026-06-28T11:22:24+09:00"
+}

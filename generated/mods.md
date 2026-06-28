@@ -537,6 +537,11 @@ robots. Location is a bit unstable because of it's size so game can heavily lag
 near it if processing power is relatively low so use it i | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
+[Near Future Tech](https://github.com/Agoelia/Near-Future-Tech/archive/refs/heads/main.zip)
+| ArkantosAoM | 0.0.0 | A content mod adding mostly hard-sci-fi equipment,
+inspired by the likes of The Expanse, Menace and Brigador. | |
+![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
+|
 [Nechronica Redux](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)
 | YukariMindGap | 0.0.0 | MODIFIED by YukariMindGap from Malkeus: Adds items,
 mutations and enemies appearing in Nechronica: the Long Long Sequel. | |
@@ -1248,6 +1253,12 @@ variants of armors to normal levels. | |
 | xXenocage | 0.0.0 | Adds all the weapons included inside the game SAS4 Zombie
 assault, only the base quality is present (aka, no red, no black), please do
 consider that these weapons are not a property of mine, and as th | |
+![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
+|
+[Yellow Tweaks](https://github.com/Yellowbaka/Yellow-Tweaks/archive/refs/heads/main.zip)
+| YellowbakaFan | 0.0.0 | Quick and dirty mod to revert changes made by
+dedmemdev. Specifically readds SWAT Zombies and gets rid of the enemies in the
+dead squad of soldiers special | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Youkai Enemies](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)
