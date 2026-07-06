@@ -11,24 +11,7 @@ author:
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/YukariMindGap/Nechronica_Bright_Sequel/tree/master/Nechronica-Bright-Sequel-BN
-version: 2026.6.20-6ebcf1e
-dependencies:
-  bn: ">=0.9.1"
-source:
-  type: github_archive
-  url: >-
-    https://github.com/YukariMindGap/Nechronica_Bright_Sequel/archive/refs/heads/master.zip
-  commit_sha: 6ebcf1ec0760f9d868e40d60d0dbbb8e889f0877
-  extract_path: Nechronica-Bright-Sequel-BN
-categories:
-  - content
-modinfo_url: >-
-  https://raw.githubusercontent.com/YukariMindGap/Nechronica_Bright_Sequel/6ebcf1ec0760f9d868e40d60d0dbbb8e889f0877/Nechronica-Bright-Sequel-BN/modinfo.json
-uses_lua: false
-autoupdate:
-  type: commit
-  branch: master
-last_updated: "2026-06-20T02:48:46.852Z"
+version: 2026.7.6-fa9cc9d
 previous_releases:
   - version: 0.0.0
     source:
@@ -38,3 +21,28 @@ previous_releases:
       commit_sha: 6ebcf1ec0760f9d868e40d60d0dbbb8e889f0877
       extract_path: Nechronica-Bright-Sequel-BN
     released_at: "2026-06-19T11:39:11.189Z"
+  - version: 2026.6.20-6ebcf1e
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/YukariMindGap/Nechronica_Bright_Sequel/archive/refs/heads/master.zip
+      commit_sha: 6ebcf1ec0760f9d868e40d60d0dbbb8e889f0877
+      extract_path: Nechronica-Bright-Sequel-BN
+    released_at: "2026-06-20T02:48:46.852Z"
+dependencies:
+  bn: ">=0.9.1"
+source:
+  type: github_archive
+  url: >-
+    https://github.com/YukariMindGap/Nechronica_Bright_Sequel/archive/refs/heads/master.zip
+  commit_sha: fa9cc9dc6fcddf6045e800698eb5cca6d1846858
+  extract_path: Nechronica-Bright-Sequel-BN
+categories:
+  - content
+modinfo_url: >-
+  https://raw.githubusercontent.com/YukariMindGap/Nechronica_Bright_Sequel/6ebcf1ec0760f9d868e40d60d0dbbb8e889f0877/Nechronica-Bright-Sequel-BN/modinfo.json
+uses_lua: false
+autoupdate:
+  type: commit
+  branch: master
+last_updated: "2026-07-06T02:36:44.453Z"

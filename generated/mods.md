@@ -550,7 +550,7 @@ mutations and enemies appearing in Nechronica: the Long Long Sequel. | |
 |
 [Nechronica: Bright Sequel](https://github.com/YukariMindGap/Nechronica_Bright_Sequel/archive/refs/heads/master.zip)
 | YukariMindGap,Malkeus (Original Creator),Yunder (Original Creator) |
-2026.6.20-6ebcf1e | Become an undead DOLL and fight monstrosities in the mod
+2026.7.6-fa9cc9d | Become an undead DOLL and fight monstrosities in the mod
 based on the Japanese TTRPG, Nechronica: the Long Long Sequel. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -782,7 +782,7 @@ WACKINESS OR ONLY IF YOU ARE TESTING | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Return Of The Blob](https://github.com/yowshi/BlobExpansion/archive/refs/heads/master.zip)
-| Dev_Null,yowshi | 2026.6.23-60c08fd | Blob based survival and technology. Adds
+| Dev_Null,yowshi | 2026.7.6-f822b91 | Blob based survival and technology. Adds
 comprehensive slime-based equipment, creatures, and amphibious vehicle parts
 that can transition seamlessly between land and water. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
