@@ -352,7 +352,7 @@ fancy needs. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Augmented Arsenal](https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip)
-| Thelonestander | 2026.7.3-aed2c1a | Adds many new atomic gears to BN! | |
+| Thelonestander | 2026.7.8-77b5228 | Adds many new atomic gears to BN! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Cata++ patchmod](https://github.com/thelonestander/Lones-atomic-additions/archive/refs/heads/main.zip)
