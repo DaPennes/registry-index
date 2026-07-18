@@ -7,7 +7,7 @@ author:
   - Thelonestander
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/thelonestander/Lones-Augmented-Arsenal"
-version: 2026.7.17-791d796
+version: 2026.7.18-095018d
 previous_releases:
   - version: 0.0.0
     source:
@@ -184,6 +184,13 @@ previous_releases:
         https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip
       commit_sha: 7b2cdcd50d8800e4ba9bbcb3a242e51bb34f1d07
     released_at: "2026-07-15T01:50:28.969Z"
+  - version: 2026.7.17-791d796
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip
+      commit_sha: 791d796b41bddcce758531d6739c5c406bfd3bed
+    released_at: "2026-07-17T02:03:50.233Z"
 dependencies:
   bn: ">=0.9.1"
   aftershock: "*"
@@ -192,7 +199,7 @@ source:
   type: github_archive
   url: >-
     https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip
-  commit_sha: 791d796b41bddcce758531d6739c5c406bfd3bed
+  commit_sha: 095018de5164130fb8d088134957d23f0e0a83a5
 categories:
   - content
 modinfo_url: >-
@@ -201,4 +208,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-07-17T02:03:50.233Z"
+last_updated: "2026-07-18T01:53:01.851Z"
