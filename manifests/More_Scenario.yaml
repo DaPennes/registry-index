@@ -1,0 +1,30 @@
+schema_version: "1.0"
+id: More_Scenario
+display_name: More Scenario
+short_description: >-
+  Adds over 100 new scenarios with different ways to play the Cataclysm in
+  Bright Nights. Each scenario offers unique starting locations, professions,
+  and challenges.
+description: >-
+  Adds over 100 new scenarios with different ways to play the Cataclysm in
+  Bright Nights. Each scenario offers unique starting locations, professions,
+  and challenges.
+author:
+  - DaPennes
+license: MIT
+homepage: "https://github.com/DaPennes/More-For-Cataclysm-BN/tree/main/More Scenario"
+version: 1.0.0
+dependencies:
+  bn: ">=0.9.1"
+source:
+  type: direct_url
+  url: >-
+    https://github.com/DaPennes/More-For-Cataclysm-BN/archive/refs/heads/main.zip
+  commit_sha: f70ae1a21dfdd18439b2db551338cae4ac517deb
+  extract_path: More-For-Cataclysm-BN-main/More Scenario
+categories:
+  - content
+  - qol
+autoupdate:
+  type: commit
+  branch: main
