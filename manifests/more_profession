@@ -1,0 +1,28 @@
+schema_version: "1.0"
+id: more_profession
+display_name: More Profession
+short_description: >-
+  Adds 100 new professions to the game, covering a wide variety of civilian,
+  trade, and specialist backgrounds.
+description: >-
+  Adds 100 new professions to the game, covering a wide variety of civilian,
+  trade, and specialist backgrounds.
+author:
+  - DaPennes
+license: MIT
+homepage: "https://github.com/DaPennes/More-For-Cataclysm-BN/tree/main/More Profession"
+version: 1.0.0
+dependencies:
+  bn: ">=0.9.1"
+source:
+  type: direct_url
+  url: >-
+    https://github.com/DaPennes/More-For-Cataclysm-BN/archive/refs/heads/main.zip
+  commit_sha: f70ae1a21dfdd18439b2db551338cae4ac517deb
+  extract_path: More-For-Cataclysm-BN-main/More Profession
+categories:
+  - content
+  - qol
+autoupdate:
+  type: commit
+  branch: main
