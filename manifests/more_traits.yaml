@@ -15,8 +15,14 @@ version: 0.0.0
 dependencies:
   bn: ">=0.9.1"
 source:
-  type: github_archive
+  type: direct_url
   url: >-
     https://github.com/DaPennes/More-For-Cataclysm-BN/archive/refs/heads/main.zip
   commit_sha: f70ae1a21dfdd18439b2db551338cae4ac517deb
   extract_path: More-For-Cataclysm-BN-main/More Traits
+categories:
+  - qol
+  - content
+autoupdate:
+  type: commit
+  branch: main
